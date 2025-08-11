@@ -10,7 +10,7 @@ RLS Trainer — это тренажер-симулятор для подгото
 
 bash
 Копировать
-git clone [https://github.com/your-repository-link](https://github.com/maksum101997/RLS-Trainer-GUO-GAZPROM/tree/main)
+git clone github.com/maksum101997/RLS-Trainer-GUO-GAZPROM/tree/main
 Перейдите в папку с проектом:
 
 bash
